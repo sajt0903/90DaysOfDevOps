@@ -32,6 +32,12 @@ There are two main types of version control systems: centralized version control
 
 Overall, the decentralized nature of a DVCS allows for greater collaboration, flexibility, and security, making it a popular choice for many teams.
 
+Following steps are to be followed for creating a version control file on local system / pc: 
+Step 1: create a file  using mkdir <file_name>
+Step 2: initialized Git repository using git init
+Step 3 : write git add for putting files to repository 
+Step 4: use git commit –m “your message” for adding file to version control system.
+
 ## Task:
 
 - Install Git on your computer (if it is not already installed). You can download it from the official website at https://git-scm.com/downloads
